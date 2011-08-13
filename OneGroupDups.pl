@@ -18,6 +18,7 @@ my $count = 0;
 my ( %mbrs, %keyValue, @keyValueArray );
 
 my ( $selected_group ) = shift @_;
+die unless ( not defined $selected_group );
 
 open( MEMBERS, "MultiMembers.dat" ) or die "Unable to open MultiMembers.dat";
 
@@ -29,7 +30,7 @@ while ( <MEMBERS> ) {
 	push @keyValueArray, $addr;
 };
 
-close( <MEMBERS> );
+close( MEMBERS );
 
 
 open( DUPS, ">MemberDups.dat" ) or die "Unable to open MemberDups.dat";
@@ -90,7 +91,7 @@ sub processFile {
 
 		$count++;
 
-		print OUT "$fileShortName|$profile|$email|$joinDate\n";
+		# print OUT "$fileShortName|$profile|$email|$joinDate\n";
 
 		# First check for a duplicate profile
 		if ( $profile ne "<NoProfile>" ) {

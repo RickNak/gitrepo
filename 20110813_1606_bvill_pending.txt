@@ -1,0 +1,6 @@
+'ahidalgo76','ahidalgo76@yahoo.com','','-','','','Individual Emails','','Moderated','8/12/2011','Fully Featured'
+'blooty113jan','blooty113jan@yahoo.com','','-','','','Daily Digest','','Moderated','8/10/2011','Fully Featured'
+'bville014','bville014@yahoo.com','','-','','','Individual Emails','','Moderated','8/8/2011','Fully Featured'
+'karenstaub65','karenstaub65@yahoo.com','','-','','','Individual Emails','','Moderated','8/10/2011','Fully Featured'
+'melanie.rager','melanie.rager@yahoo.com','','-','','','Daily Digest','','Moderated','8/13/2011','Fully Featured'
+'nancy_jim97','nancy-jim@comcast.net','','-','','','Individual Emails','','Moderated','8/12/2011','Fully Featured'
