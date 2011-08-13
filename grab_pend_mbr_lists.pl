@@ -120,8 +120,8 @@ while ( @sorted ) {
 
 };
 
-my $filename = "PackUp.cmd";
-open( OUT, ">", $filename ) or die "Unable to open $filename: $!";
-print OUT "WZZIP -muo $today_str $today_str" . "*.txt\n";
-close( OUT );
+#my $filename = "PackUp.cmd";
+#open( OUT, ">", $filename ) or die "Unable to open $filename: $!";
+#print OUT "WZZIP -muo $today_str $today_str" . "*.txt\n";
+#close( OUT );
 
