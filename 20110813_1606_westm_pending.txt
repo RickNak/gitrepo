@@ -1,6 +1,0 @@
-'i_amia','amelie.w@gmail.com','','-','','','Daily Digest','','Moderated','8/7/2011','Fully Featured'
-'jeremybarth','jeremybarth@yahoo.com','','-','','','Individual Emails','','Moderated','8/11/2011','Fully Featured'
-'saiwingchu','saiwingchu@yahoo.com','','-','','','Individual Emails','','Moderated','8/12/2011','Fully Featured'
-'slgreer08','slgreer08@yahoo.com','','-','','','Individual Emails','','Moderated','8/10/2011','Fully Featured'
-'stealthbit','stealthbit@yahoo.com','','-','','','Individual Emails','','Moderated','8/8/2011','Fully Featured'
-'tmiftm99_01','tmiftm99_01@yahoo.com','','-','','','Individual Emails','','Moderated','8/13/2011','Fully Featured'
